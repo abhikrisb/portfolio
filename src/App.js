@@ -951,7 +951,7 @@ function App() {
                   <span className="btn-sparkle-enhanced"></span>
                   Start a Project
                 </a>
-                <a href="/resume.pdf" className="btn-secondary-enhanced" download>
+                <a href="https://raw.githubusercontent.com/abhikrisb/portfolio/refs/heads/main/public/resume.pdf" className="btn-secondary-enhanced" download>
                   <span className="btn-border-glow"></span>
                   Download Resume
                 </a>
