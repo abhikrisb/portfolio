@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# 🚀 Abhishek Krishna B - Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://your-portfolio-link.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/abhikrisb/my-portfolio)
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 
-## Available Scripts
+A modern, responsive portfolio website showcasing my journey as a Full Stack Developer. Built with React and featuring stunning animations, interactive elements, and a clean design.
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+### ✨ **Interactive Design**
+- **Animated Background** with floating shapes and grid overlay
+- **Real-time Clock** and live status indicators
+- **Typewriter Effect** for dynamic text animation
+- **Mouse-responsive** floating elements
+- **AOS (Animate On Scroll)** for smooth animations
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🎨 **Modern UI/UX**
+- **Glassmorphism** design elements
+- **Gradient backgrounds** and hover effects
+- **Responsive design** for all devices
+- **Dark theme** with colorful accents
+- **Professional animations** and transitions
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 📱 **Sections**
+- **Hero Section** with animated profile and status indicators
+- **About Me** with interactive stats and code snippets
+- **Skills** showcase with categorized technologies
+- **Experience Timeline** with professional journey
+- **Projects Gallery** with detailed project cards
+- **Contact Form** with modern styling
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Frontend
+- **React 19.x** - Latest React features
+- **CSS3** - Custom animations and styling
+- **AOS Library** - Scroll animations
+- **Google Fonts** - Inter font family
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Features & Libraries
+- **Responsive Design** - Mobile-first approach
+- **CSS Grid & Flexbox** - Modern layout techniques
+- **Custom Animations** - Keyframe animations
+- **Interactive Elements** - Hover effects and transitions
