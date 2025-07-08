@@ -1,9 +1,5 @@
 #  🚀 Abhishek Krishna B - Portfolio Website
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://your-portfolio-link.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/abhikrisb/my-portfolio)
-[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-
 A modern, responsive portfolio website showcasing my journey as a Full Stack Developer. Built with React and featuring stunning animations, interactive elements, and a clean design.
 
 ## 🌟 Features
