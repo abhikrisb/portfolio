@@ -208,7 +208,7 @@ function App() {
                 <div className="avatar-enhanced">
                 <div className="avatar-glow-enhanced"></div>
                 <div className="avatar-ring"></div>
-                <img src="/public/profile-photo.png" alt="Abhishek Krishna" className="avatar-image" />
+                <img src="/profile-photo.png" alt="Abhishek Krishna" className="avatar-image" />
                 <div className="hologram-effect"></div>
                 <div className="status-indicator-enhanced">
                     <div className="status-pulse-enhanced"></div>
